@@ -13,7 +13,6 @@ Road accidents are a significant concern worldwide, impacting lives and communit
 
 The data used in this project originates from "Road Accident Data(Finished).xlsx". The dataset comprises comprehensive information on road accidents, including accident date, severity, location, weather conditions, vehicle types involved, and various other relevant factors. The accuracy and reliability of the data are essential for ensuring the validity of the analysis and insights derived from this project.
 
-### Objectives
 
 <br/><br/>
 
